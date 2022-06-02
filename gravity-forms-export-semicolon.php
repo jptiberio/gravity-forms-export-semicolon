@@ -3,7 +3,7 @@
 /**
  *
  * Plugin Name: Gravity Forms Export Semicolon
- * Description: Plugin para alterar o caractere separador de coluna do arquivo de exportação de registros para ponto e vírgula.
+ * Description: Plugin para alterar o caractere separador da exportação registros para ponto e vírgula.
  * Author: JP Tibério
  *
  */
